@@ -1,0 +1,14 @@
+.Q_Zone {
+    background-color: #f8f9fa;
+    padding: 27px 10px;
+    text-align: center;
+    margin: 0 auto;
+    overflow: hidden;
+    border-radius: 6px;
+}
+.detilse img {
+    position: relative;
+}
+.detilse .info {
+    position: absolute;
+}
